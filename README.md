@@ -1,4 +1,4 @@
-### <div align="center">I'm Mutasim Billah, a full-time full-stack freelance developer 👨‍💻 working remotely from Dhaka Bangladesh</div>  
+### <div align="center">I'm Mutasim Billah, full-stack freelance developer 👨‍💻 working remotely from Dhaka Bangladesh</div>  
   
 
 - 🔭 I’m currently working on [TensorFlow insects classifications](https://github.com/mutasimbillah/Flutter-TensorFlow-insects-classifications)  
